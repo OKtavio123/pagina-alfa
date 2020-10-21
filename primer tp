@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="vwidth=device.width, initial-scale=1.0">
+		<title>El Ártico ha perdido el 14% de su hielo marino perenne en un solo año</title>
+		<title>Pagina web</title>
+		<link rel="stylesheet" type="text/css" href="index.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Raleway:300,400,700,800&display=swap" rel="stylesheet">
+	<!--Link rel sirve para enlazar css a html-->
+	</head>
+
+	<body>
+		<div class="container"> 
+			<div class="row"> 
+				<div class="row1">
+					<div class="titulo">
+						<h1>El Ártico ha perdido el 14% de su hielo marino perenne en un solo año</h1>
+					</div>
+
+						<img src="congelar-el-ártico.jpg" alt="Artico HIELO" width="460px" align="left">
+					
+						<p><strong>WASHINTONG.-</strong> El hielo perenne del Ártico se redujo en un 14% durante el último año, al perder <strong>720.000 kilómetros cuadrados</strong>, Una superficie superior a la Peninsula Ibérica, según datos de la NASA.</p>
+						<br>
+
+						<p>Según él JPL... La pérdida del hielo perenne que debiera mantenerse durante todo el verano, fue todavia mayor y se acerco a un 50% en el momento en que ese hielo se desplazaba desde el Ártico oriental hacia el oeste.</p>
+						<br>
+
+						<p><strong>Son Nghiem</strong>, investigador del JPL, ha declarado que:</p>
+						<br>
+
+						<blockquote>
+						<em>"Los cambios registrados en esos años en el hielo ártico son rapidos y espectaculares. De mantenerse la situación, esta tendra un impacto profundo en el ambiente, asi como el transporte marino y el comercio." </em>
+						</blockquote>
+						
+						<div class="desarrollo">
+							<p>
+								Desarrollador web: Salinas Octavio <br>
+								Institucion: E.E.S.T.N°14 <br>
+								curso: 5to Programación <br>
+								Año: 2020
+							</p>
+						</div>		
+				</div>
+ 			</div>
+		</div>
+	</body>
+</html>
